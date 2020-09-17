@@ -11,4 +11,8 @@ css, HTML,JS, C++
 will be later
 ## Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
 no have yet
+## Education (including courses, seminars, lectures, online learning)
+will be later
+## English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+will be later
 
